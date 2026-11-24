@@ -1,5 +1,7 @@
 # Deploy and Host Discord Bot Starter with Railway
 
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/discord-bot-starter-discordpy-27-postgre?referralCode=20H68q)
+
 A Python Discord bot that works as soon as you paste its token: slash commands for help, latency, reminders and per-server tags, with state in Postgres so nothing is lost on redeploy. Built on discord.py 2.7 with no privileged intents. It is a starter: eject the repo and add your own commands.
 
 ## About Hosting Discord Bot Starter
