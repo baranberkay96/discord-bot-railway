@@ -68,7 +68,7 @@ Run one replica: a second copy of the same token would answer every command twic
 
 **Resources**
 
-Measured on Railway: the bot idles at about 60 MB RAM and Postgres at about 70 MB, near 0 vCPU. Trial plan is enough; cost is roughly $1–2/month.
+Measured on Railway: the bot idles at about 55 MB RAM and Postgres at about 100 MB, near 0 vCPU. Trial plan is enough; cost is roughly $1–2/month.
 
 **Not included, on purpose**
 

@@ -35,8 +35,8 @@ Required input: `DISCORD_TOKEN`. Optional: `DISCORD_GUILD_ID`, `BOT_ACTIVITY` (/
 
 | Service | Idle RAM | Typical RAM | CPU |
 |---|---|---|---|
-| Bot | ≈60 MB (measured) | 80–200 MB with many servers | ≈0 idle |
-| Postgres | ≈70 MB (measured) | 100–200 MB | ≈0 idle |
+| Bot | ≈55 MB (measured) | 80–200 MB with many servers | ≈0 idle |
+| Postgres | ≈100 MB (measured) | 100–200 MB | ≈0 idle |
 
 Estimated cost: about $1–2/month (RAM $10/GB-month, volume $0.15/GB-month). Minimum plan: Trial.
 
